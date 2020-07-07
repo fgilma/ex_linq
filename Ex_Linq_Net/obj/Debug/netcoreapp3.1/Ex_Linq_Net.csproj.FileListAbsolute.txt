@@ -1,0 +1,13 @@
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\bin\Debug\netcoreapp3.1\Ex_Linq_Net.exe
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\bin\Debug\netcoreapp3.1\Ex_Linq_Net.deps.json
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\bin\Debug\netcoreapp3.1\Ex_Linq_Net.runtimeconfig.json
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\bin\Debug\netcoreapp3.1\Ex_Linq_Net.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\bin\Debug\netcoreapp3.1\Ex_Linq_Net.dll
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\bin\Debug\netcoreapp3.1\Ex_Linq_Net.pdb
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\obj\Debug\netcoreapp3.1\Ex_Linq_Net.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\obj\Debug\netcoreapp3.1\Ex_Linq_Net.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\obj\Debug\netcoreapp3.1\Ex_Linq_Net.AssemblyInfo.cs
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\obj\Debug\netcoreapp3.1\Ex_Linq_Net.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\obj\Debug\netcoreapp3.1\Ex_Linq_Net.dll
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\obj\Debug\netcoreapp3.1\Ex_Linq_Net.pdb
+C:\Users\franc\source\repos\Ex_Linq_Net\Ex_Linq_Net\obj\Debug\netcoreapp3.1\Ex_Linq_Net.genruntimeconfig.cache
